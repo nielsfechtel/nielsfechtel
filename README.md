@@ -1,10 +1,8 @@
-# Niels Fechtel
 ### Hi there 👋 This is Niels. 
-JavaScript Fullstack developer, learning Linux and DevOps with Arch, Azure and Kubernetes. 
+JavaScript Fullstack developer and aspiring DevOps engineer, learning Linux and DevOps with Kubernetes and Flux in my [personal homelab](https://github.com/nielsfechtel/homelab). 
 
 ⬇️ I'm a Web Developer and aspiring DevOps Engineer.
 - recently completed a Full Stack Web Development Bootcamp
-- switched to Arch Linux, setting up by dev environment using Neovim and Devcontainers - see https://github.com/nielsfechtel/dotfiles
-- actively studying DevOps with Kubernetes- and Azure Cloud-basics
-- also an artist - check out my [Behance](https://www.behance.net/nielsfechtel) or [Instagram](https://www.instagram.com/nielsfechtel/)
-- 🤝 want to get involved in OSS-projects!
+- developed my [Genima-App](https://github.com/nielsfechtel/homelab) using NextJS, NestJS and tRPC
+- switched to Arch Linux, see [my dotfiles](https://github.com/nielsfechtel/dotfiles)
+- actively studying DevOps with Kubernetes and GitOps with Flux
