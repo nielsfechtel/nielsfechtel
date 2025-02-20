@@ -12,7 +12,7 @@ JavaScript Fullstack developer and aspiring DevOps engineer, learning Linux and 
 - actively studying DevOps with Kubernetes and GitOps with Flux
 
 # 📚 Currently Learning
-I am continously expanding my knowledge in the DevOps and automation-fields. Recently I completed my first homelab-setup; the next focus is going to be on further security, e.g. with [wazuh](https://github.com/wazuh/wazuh), self-hosting a SSO-service and further refining my k8s-monitoring-setup by learning about the Prometheus-Grafana-stack. 
+I am continuously expanding my knowledge in the DevOps and automation-fields. Recently I completed my first [homelab-setup](https://github.com/nielsfechtel/homelab); the next focus is going to be on further security, e.g. with [wazuh](https://github.com/wazuh/wazuh), self-hosting a SSO-service and further refining my k8s-monitoring-setup by learning about the Prometheus-Grafana-stack. 
 
 🔗 Check out my [homelab-setup](https://github.com/nielsfechtel/homelab).
 
