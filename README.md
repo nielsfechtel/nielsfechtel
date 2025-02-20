@@ -1,5 +1,7 @@
 ### Hi there 👋 This is Niels. 
-JavaScript Fullstack developer and aspiring DevOps engineer, learning Linux and DevOps with Kubernetes and Flux in my [personal homelab](https://github.com/nielsfechtel/homelab). 
+<img src="https://github.com/user-attachments/assets/857b3655-9e1c-4d01-aecd-1ad00d2b9cfa" alt="banner hokkaido landscape" />
+
+JavaScript Fullstack developer and aspiring DevOps engineer, learning Linux and DevOps with Kubernetes and Flux with my [homelab](https://github.com/nielsfechtel/homelab)-setup. 
 
 ⬇️ I'm a Web Developer and aspiring DevOps Engineer.
 - recently completed a Full Stack Web Development Bootcamp
